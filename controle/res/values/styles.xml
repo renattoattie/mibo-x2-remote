@@ -1,0 +1,1 @@
+<resources><style name="AppTheme" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#54D6C7</item><item name="android:windowBackground">#111722</item><item name="android:windowSoftInputMode">adjustResize</item></style></resources>
