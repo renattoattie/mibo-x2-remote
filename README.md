@@ -12,4 +12,5 @@ A versão 0.2 aceita até 16 celulares autorizados e oito conexões simultâneas
 
 Código distribuído sob [licença MIT](LICENSE).
 
-O código-fonte completo está disponível em [Codigo-fonte-v0.2.zip](Codigo-fonte-v0.2.zip).
+O código-fonte está nas pastas [common](common), [controle](controle), [receptor](receptor) e [tests](tests). O script [build.ps1](build.ps1) compila os aplicativos. Consulte INSTALAR.md para os requisitos de compilação.
+
