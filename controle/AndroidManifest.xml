@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="br.com.mibolocal.controle" android:versionCode="2" android:versionName="0.2-teste">
+ <uses-sdk android:minSdkVersion="26" android:targetSdkVersion="35"/>
+ <uses-permission android:name="android.permission.INTERNET"/>
+ <application android:label="Mibo Controle Local" android:theme="@style/AppTheme" android:allowBackup="false" android:icon="@android:drawable/ic_media_play">
+  <activity android:name=".MainActivity" android:exported="true"><intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter></activity>
+ </application>
+</manifest>
