@@ -1,0 +1,4 @@
+<resources>
+ <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#54D6C7</item><item name="android:windowBackground">#111722</item></style>
+ <string name="access_description">Permite que seu celular pareado navegue pela tela do Mibo, toque em itens e use Voltar e Início. O receptor consulta os elementos visíveis localmente; não transmite textos nem imagens da tela. Você pode pausar a recepção ou revogar o celular no app. Não requer depuração nem root.</string>
+</resources>
